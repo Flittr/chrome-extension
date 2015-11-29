@@ -10,7 +10,7 @@ You should have it to control the application.
 ## Chrome extension:
 You should have it to play music on desktop.
 
-[![Chrome button](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/vk-music-control/kiemjdenokbmgjhhgoafejdphgmljpej)
+[![Chrome button](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_206x58.png)](https://chrome.google.com/webstore/detail/ehgpiinfabkodcpnnbknmlphjcmeplmg)
 
 # License:
 [MIT](http://opensource.org/licenses/MIT)

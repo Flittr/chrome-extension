@@ -1,7 +1,11 @@
 {
     "appName": {
-        "message": "Flittr.app",
+        "message": "Flittr.app (ранее VK Music Control player)",
         "description": "The name of the application"
+    },
+    "appShortName": {
+      "message": "Flittr.app",
+      "description": "The short name of the application"
     },
     "appDescription": {
         "message": "Flittr.app - это приложение для проигрывания музыки ВКонтакте с управлением через Android устройство.",
