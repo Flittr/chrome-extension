@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "Flittr.app",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Flittr.app is an application to play music with control from android device",
+    "description": "The description of the application"
+  },
+  "iconTitle": {
+    "message": "Open Flittr.app",
+    "description": "The title of the icon"
+  }
+}

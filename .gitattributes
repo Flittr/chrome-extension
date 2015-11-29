@@ -1,0 +1,8 @@
+# Do not include in release
+.gitattributes export-ignore
+.gitignore export-ignore
+
+LICENSE export-ignore
+README.md export-ignore
+images/icons export-ignore
+images/ru_play_badge_border.png export-ignore

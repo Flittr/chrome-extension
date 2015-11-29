@@ -1,0 +1,14 @@
+{
+    "appName": {
+        "message": "Flittr.app",
+        "description": "The name of the application"
+    },
+    "appDescription": {
+        "message": "Flittr.app - это приложение для проигрывания музыки ВКонтакте с управлением через Android устройство.",
+        "description": "The description of the application"
+    },
+    "iconTitle": {
+        "message": "Запустить Flittr.app и начать слушать музыку!",
+        "description": "The title of the icon"
+    }
+}
